@@ -1,0 +1,33 @@
+=================================
+=== Girl Scout Cookie Invoice ===
+=================================
+
+Thu Jun 30 00:57:18 2022
+
+First Last
+Address
+City
+
+Order number: 1
+
+Dear First Last: 
+
+Your Girl Scout Cookie order has arrived.
+Your order consists of the following: 
+------------------------------------------------- 
+|        Cookie          | Quantity |   Cost    | 
+------------------------------------------------- 
+| Thin Mints             |        1 |      5.00 |
+| Lemon-ups              |        2 |     10.00 |
+| Lemonades              |        3 |     15.00 |
+| Samoas                 |        4 |     20.00 |
+| Tagalongs              |        5 |     25.00 |
+| Do-si-dos              |        6 |     30.00 |
+| Trefoils               |        7 |     35.00 |
+| Thanks-A-Lot           |        8 |     40.00 |
+| Toffee-tastic          |        9 |     45.00 |
+| Caramel Chocolate Chip |       10 |     50.00 |
+------------------------------------------------- 
+|                       Total Due:  | $  275.00 | 
+------------------------------------------------- 
+
